@@ -12,3 +12,5 @@ https://github.com/NishantPadhi/chess-board-animation
 https://github.com/NishantPadhi/Country-Capital-Game
 
 https://github.com/NishantPadhi/Timer-Progressbar
+
+https://github.com/NishantPadhi/color-spotter
